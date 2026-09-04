@@ -162,6 +162,7 @@ Resources for resume templates and scoring.
 ### Resume Scorer
 - [Resume Worded](https://resumeworded.com/score)
 - [Enhancv](https://enhancv.com/resources/resume-checker/)
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker (3/day no account, 10/day free account) + live candidate leaderboard (paid placement/visibility, not pay-for-score). [State of ATS 2026](https://withresumeai.com/reports/state-of-ats-2026): 738 employers, 704 portal-verified, Workday 37.9%.
 
 ## Hackathons and Contests
 Platforms to find upcoming hackathons and various contests. See winning hackathon projects, blogs of winning team experiences and tech stack used to get an idea of how to win hackathons.
