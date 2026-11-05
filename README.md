@@ -153,6 +153,8 @@ Interview experiences are important to know about round details, questions asked
 ## Resume
 Resources for resume templates and scoring.
 
+- [JobEmerge](https://www.jobemerge.work) - Freemium job-fit test, resume translator, and Markdown resume editor.
+
 - [Tips and Mistakes to Avoid in Resume](https://www.linkedin.com/posts/pratham-jiwanani_your-resume-is-getting-rejected-before-it-activity-7300175001066905602-sE9V/)
 
 ### Resume Templates
@@ -200,3 +202,4 @@ Some general but underrated tips to crack campus placements (basically whatever 
 - Number of DSA questions you solve doesn't matter. What truly matters is how thoroughly you actually understand the concepts, logic, and capable of solving it on your own in both brute force and optimal methods. Know why the solution is working.
 - Practice every day. Be consistent. Even a little effort everyday compounds over months and years. Your future-self will thank you.
 - Don't apply for all companies/ chase after every company. Filter out what companies you want to get placed based on company values, role offered, and your confidence in cracking that company. Focus more on preparing for companies YOU think you can crack based on your current prep level.
+
